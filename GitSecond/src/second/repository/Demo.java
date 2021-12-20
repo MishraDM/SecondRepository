@@ -9,4 +9,8 @@ public static void main(String[] args) {
 	{
 		System.out.println("branch 1");
 }
+	public void m2()
+	{
+		System.out.println("branch 2");
+}
 }
